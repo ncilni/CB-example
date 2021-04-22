@@ -28,8 +28,7 @@ body{
   top: 20px;
   background-repeat: no-repeat;
   width: 100%;
-  height: 100%;
-    
+  height: 100%; 
    
    
 }
@@ -39,3 +38,133 @@ body{
     width: 100%;
     height: 150px;
 }
+
+
+h2{margin: 0px;
+    text-align: center;
+    font-size: 45px;
+    font-family: sans-serif;
+    padding: 55px;
+
+}
+
+#left-side{
+    display:inline-block;
+    width:25%;
+    padding: 75px;
+    
+    
+}
+  p {
+    font-size: 20px;
+    text-align: center;
+    font-family: Roboto;
+    font-weight: 450; 
+ }
+
+ .lines{
+     border-top: black solid 1px;
+     color: #070707;
+     line-height: 3rem; 
+     
+ }
+
+ h4{
+     border-bottom:black solid 7px;
+     margin-top: 9px;
+     font-family: sans-serif;
+     font-size: 1.5rem;
+
+
+ }
+
+ h5{
+     font-family: sans-serif;
+     font-size: 1.5rem;
+     margin-top: 9px;
+     font-weight: 350;
+ }
+
+
+ #pic1{
+     position: relative;
+     width: 100%;
+     
+     
+    
+     
+     
+ }   
+ #pic9{
+  width: 100%;
+  margin-top: 45px;
+ }
+
+ #pic11{
+     width: 100%;
+     margin-top: 95px;
+
+ }
+
+ .aside{
+     width: 61%;
+     display: inline-block;
+     vertical-align: top;
+     
+ }
+
+ #aside-header{
+    font-size: 1.3rem;
+    
+ }
+
+ .border {
+    background: chocolate;
+    width: 100%;
+    height: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+ #linkin-park-img{
+     width: 100%;
+     
+ }
+
+ .lp-h{
+     color: blanchedalmond;
+     margin-left: 11px;
+     font-size: 1.5rem;
+     
+ }
+
+ 
+    p {
+        font-size: 1.3rem;
+        font-family: sans-serif;
+        font-weight: 310;
+        line-height: 1.5;
+        padding-top: 21px;
+ }
+
+ #qt{
+    align-content: center;
+    font-size: 3rem;
+    font-family: sans-serif;
+    font-weight: 310;
+  }
+
+  footer{
+      background-color: black;
+      width: 100%;
+      height: 95px;
+      text-align: center;
+    
+  }
+   footer a  {
+       color: blanchedalmond;
+       text-decoration: none;
+       text-align: center;
+       /* vertical-align: middle;
+       font-size: 2rem; */
+   } 
